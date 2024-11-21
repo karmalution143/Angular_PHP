@@ -1,5 +1,4 @@
-# Angular_PHP
-An angular frontend with php backend
-Standalone set-up
-Easy game is sent as json
-Hard game is sent form-encoded
+- An Angular frontend with PHP backend
+- Standalone set-up
+- Easy game is sent as JSON
+- Hard game is sent form-encoded
